@@ -7,4 +7,6 @@
 ## Title: AtlasLoot |cFF0099FF[Maps]|r
 ## Notes: AtlasLoot maps module
 
+## X-Curse-Project-ID: 340018
+
 core.lua
